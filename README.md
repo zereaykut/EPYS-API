@@ -38,7 +38,7 @@ Install required packages
 pip install -r requirements.txt
 ```
 
-Add your EPIAS Tranparency info to a .env file like below
+Add your EPYS info to a .env file like below
 ```config
 EPYS_USERNAME=your_username
 EPYS_PASSWORD=your_password
