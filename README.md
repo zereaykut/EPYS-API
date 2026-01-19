@@ -1,7 +1,7 @@
 # EPYS-API
 Codes for data retrieval from EPYS
 
-For more info there are API documentation in here: 
+For more info there are API documentations in here: 
 - https://epys.epias.com.tr/pre-reconciliation/technical/tr/index.html
 - https://epys.epias.com.tr/reconciliation-bpm/technical/tr/index.html
 - https://epys.epias.com.tr/reconciliation-market/technical/tr/index.html
